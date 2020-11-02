@@ -13,3 +13,7 @@ Esa Unggul University *2016 - 2020*
 1. Reading
 2. Drawing
 
+### Experience
+
+- 2014-2015 : PT Candra Nugerah Cemerlang (Operator Production)
+- 2015-2020 : PT Hekikai Indonesia (Quality Controll)
