@@ -1,10 +1,10 @@
 # CV
 
 ### Information
-**Name		**: Yudha Setyaji
-**Age		**: 22
-**Address	**: Boyolali
-**Gender	**: Male
+**Name** Yudha Setyaji
+**Age** 22
+**Address** Boyolali
+**Gender** Male
 
 ### Study History
 Esa Unggul University *2016 - 2020*
